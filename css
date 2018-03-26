@@ -1,0 +1,28 @@
+body {
+  background-color: beige;
+}
+
+h1,h2 {
+  padding: 15px;
+  font-family: arial;
+}
+h2 {
+  color: red;
+}
+
+h3 {
+  padding:20px;
+}
+
+p {
+  padding: 15px;
+  border: 6px dotted green;
+  margin-left: 150px;
+}
+.steps {
+  color: red;
+}
+
+#title {
+  font-family: Arial;
+}
