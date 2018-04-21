@@ -1,4 +1,11 @@
+head {
+  border-style: double;
+}
 
+img {
+  text-align: center;
+}
+    
 p {
   text-indent: 15%;
   font-family: "Times New Roman", Times, serif;
