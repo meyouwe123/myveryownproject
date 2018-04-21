@@ -5,11 +5,14 @@
   <h1> Assignment Digital Detectives</h1>
   </head>
      <body>
-       <button onclick="myFunction()">Click for an image</button>
+       <img scr="Strangers_on_a_Train_(film).jpg" height=150 width=150>
+       <button onclick="myFunction()">Click for a description</button>
        <p id="demo"></p>
           <script type="text/javascript">
-           var buttons = document.getElementById("demo");
-           buttons.innerHTML = '<img src="Strangers_on_a_Train_(film).jpg height="150" width="150"" />';
+            
+                function myFunction() {
+                document.getElementById("demo").innerHTML = "The film poster of the film Strangers On A Train";   
+                    }
           </script>
        
        <h2>Paper Proposal Digital Detectives</h2>
