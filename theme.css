@@ -1,3 +1,7 @@
+head, body {
+  font-family: "Times New Roman", Times, serif;
+}
+
 head {
   border-style: double;
 }
@@ -6,7 +10,6 @@ img {
   text-align: center;
 }
     
-p {
+div {
   text-indent: 15%;
-  font-family: "Times New Roman", Times, serif;
   }
