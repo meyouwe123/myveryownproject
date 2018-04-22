@@ -5,18 +5,9 @@
   <h1> Assignment Digital Detectives</h1>
   </head>
      <body>
-       <img scr="Strangers_on_a_Train_(film).jpg">
-       <button onclick="myFunction()">Click for a description</button>
-       <p id="demo"></p>
-          <script type="text/javascript">
-            
-                function myFunction() {
-                document.getElementById("demo").innerHTML = "The film poster of the film Strangers On A Train";   
-                    }
-          </script>
-       
+          
        <h2>Paper Proposal Digital Detectives</h2>
-       <div>
+       <div id=paragraph>
         <p>I would find it interesting for my final assignment to take a look at a film noir film script in comparison to a detective novel.<br>
           If they are both analysed the same way using digital tools, do similar results come out of it? <br>
           Which media to use is still a question for me. During the course we have been working with novels, <br>
@@ -37,7 +28,18 @@
   </p>
          
          
-       </div>
+       </div id=paragraph>
+       
+       <div id=image>
+         <img scr="Strangers_on_a_Train_(film).jpg">
+          <button onclick="myFunction()">Click for a description</button>
+          <p id="image_1"></p>
+          <script type="text/javascript">
+            
+                function myFunction() {
+                document.getElementById("image_1").innerHTML = "The film poster of the film Strangers On A Train";   
+                    }
+          </script>
        
   
      </body>
