@@ -12,11 +12,12 @@ h2 {
 
 #paragraph { 
     text-align:left;
+    margin-left: 10px;
 } 
 
 #image {
   margin-top:8.5px;
-  margin-left:50px;
+  margin-left:60px;
   display:inline
   }
    
