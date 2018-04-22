@@ -4,6 +4,7 @@ head, body {
 
 h1 {
   border-style: double;
+  text-align: center;
 }
 
 
