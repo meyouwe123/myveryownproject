@@ -6,12 +6,8 @@ h1 {
   border-style: double;
 }
 
-#image {
+p {
   border-style: dashed;
-}
-
-#paragraph {
-  border-style: double;
 }
 
 
