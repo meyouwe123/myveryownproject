@@ -12,12 +12,12 @@ h2 {
    
 #paragraph { 
     float:left;
-    width:40%;
+    width:60%;
     margin-left:30px;
 } 
 
 #image {
   float:left; 
-  width:30%; 
+  width:50%; 
   
   }
