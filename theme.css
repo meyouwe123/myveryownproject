@@ -6,6 +6,15 @@ h1 {
   border-style: double;
 }
 
+#image {
+  border-style: dashed;
+}
+
+#paragraph {
+  border-style: double;
+}
+
+
 
 
 
