@@ -16,12 +16,12 @@ p {
    
 #paragraph { 
     float:left;
-    width:60%;
+    width:50%;
     margin-left:30px;
 } 
 
 #image {
   float:left; 
-  width:50%; 
+  width:40%; 
   
   }
