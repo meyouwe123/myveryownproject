@@ -14,11 +14,4 @@ p {
   fontsize: small;
 }
    
-#paragraph { 
-    float:left;
-    width: 30%;
-} 
 
-#image {
-  float:right;  
-  }
