@@ -10,8 +10,17 @@ h2 {
   font-weight: bold;
 }
 
-p {
-  fontsize: small;
-}
+#paragraph { 
+    height:60px;
+    background-color:yellow;
+    border-bottom:1px solid black;
+    text-align:left;
+} 
+
+#image {
+  margin-top:8.5px;
+  margin-left:5px;
+  display:inline
+  }
    
 
