@@ -10,8 +10,13 @@ h2 {
   font-weight: bold;
 }
 
+#paragraph {
+  display: block;
+}
+
 #image p {
  float:left; 
+ display: inline;
 }
 
 
